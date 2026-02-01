@@ -52,6 +52,12 @@ Built using **HTML, CSS, JavaScript** and powered by **n8n automation + OpenAI**
 - Set Node  
 - OpenAI Chat Model (gpt-4o / gpt-4o-mini)  
 - Gmail Node
+  
+---
+
+## **Check our Website here**
+
+https://ai-astrology-prediction.netlify.app/
 
 ---
 
