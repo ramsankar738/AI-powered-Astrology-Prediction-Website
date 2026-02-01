@@ -55,5 +55,4 @@ Built using **HTML, CSS, JavaScript** and powered by **n8n automation + OpenAI**
 
 ---
 
-## 📁 Project Structure
 
